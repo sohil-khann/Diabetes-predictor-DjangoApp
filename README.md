@@ -2,6 +2,10 @@
 
 ## Project Overview
 A Django-based web application that predicts diabetes risk using machine learning. Integrates a pre-trained model with clinical data parameters stored in MongoDB.
+-  ML Algo.: Logistic regression, Random Forest Classifier, Naïve Bayes and other Data Pre-processing, testing algorithms.
+-  Dataset:  Diabetes Prediction Datase
+t
+# Check Dataset or ML model from "lab2.pdf" f
 
 ## Features
 - Risk prediction using 8 health parameters
